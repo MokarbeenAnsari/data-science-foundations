@@ -8,6 +8,7 @@ This repository contains Jupyter notebooks for lectures on Data Science foundati
 | 2     | List in Python | [Notebook](./b_python_list.ipynb) | [YouTube](https://youtu.be/eHHTcMjxdsI) |
 | 3     | Dictionary in Python | [Notebook](./c_python_dictionary.ipynb) | [YouTube](https://youtu.be/xahz4B3AkZ8) |
 | 4     | Set in Python | [Notebook](./d_python_set.ipynb) | [YouTube](https://youtu.be/NgWCQ2JFd6Q) |
+| 5     | Tuple in Python | [Notebook](./e_python_tuple.ipynb) | [YouTube](https://youtu.be/gXKZ_4naf3Y) |
 
 
 ## License
